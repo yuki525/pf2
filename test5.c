@@ -10,6 +10,6 @@ void main(){
     printf("aの値は%dです。\n",a);        //  aの値を表示
     printf("a+b =%d\n",a+b);
 
-    printf("a/b =%d\n",a/b);
+    printf("a/b =%d\n",a/b);  //a÷bの値を表示
     printf("a%%b =%d\n",a%b);
 }a
